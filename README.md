@@ -35,7 +35,7 @@ Note: The UI will get polished over time. Example Hostname/IP redacted.
 
 ### Linux VM Dashboard | WIP for Linux
 ![Linux VM Dashboard](screenshots/linuxoverview.png)
-
+The app was also tested inside a VM. Hardware temperature readings may be unavailable in virtualized environments because the guest OS does not always receive direct sensor access.
 ## Tech stack
 - Python
 - Tkinter
